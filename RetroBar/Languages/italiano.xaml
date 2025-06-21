@@ -47,8 +47,8 @@
     <s:String x:Key="quick_launch">A_vvio veloce</s:String>
     <s:String x:Key="new_toolbar">_Nuova barra degli strumenti...</s:String>
     <s:String x:Key="set_time">Mo_difica data/ora</s:String>
-    <s:String x:Key="show_taskman_2k">Tas_k Manager...</s:String>
-    <s:String x:Key="show_taskman">Tas_k Manager</s:String>
+    <s:String x:Key="show_taskman_2k">Ges_tione Attivit&#224;...</s:String>
+    <s:String x:Key="show_taskman">Ges_tione Attivit&#224;</s:String>
     <s:String x:Key="tray_properties">_Proprietà</s:String>
     <s:String x:Key="update_available">A_ggiornamento disponibile...</s:String>
     <s:String x:Key="exit_retrobar">_Esci da RetroBar</s:String>
